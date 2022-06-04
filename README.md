@@ -1,16 +1,14 @@
-Process to follow, how to run and what are the functionality in this assignment
+# Process to follow, how to run and what are the functionality in this assignment
 1. Clone the repository by command git clone
-2. Create a folder in the file explorer and move the client folder from server folder and folder to the folder you have created.
-3. Make sure the client as well as server folder are in same folder
-4. run 'npm install' by going into client as well as server folder from command line. (cd client/cd server are the command to changing directory)
-5. After installing all the package start the development server
-6. To starting development server for client run 'npm start' it will open in 'http://localhost:3000'.
-7. To starting the backend server run 'npm start' it will show the port as 8000 'http://localhost:8000'.
-8. The data is directly fetched from API using axios and initial data is locally seeded from the backend into database. and then fetched using redux.
-9. I have used various component of React and its libraries to make it. I have also used node.js with express.js as a backend and MongoDB for database and Mongoose to connecting database to our backend.
-10. Redux and its reducer to connecting and fetching backend/database data into frontend.
-11. In this assignment login and signup is fully functional and data will be stored in database which user has given on the time of signup.
-12. Due to lack of time I am not able to complete the filter and sorting functionality and I am really sorry about it.
+2. run 'npm install' by going into client as well as server folder from command line. (cd client/cd server are the command to changing directory)
+3. After installing all the package start the development server
+4. To starting development server for client run 'npm start' it will open in 'http://localhost:3000'.
+5. To starting the backend server run 'npm start' it will show the port as 8000 'http://localhost:8000'.
+6. The data is directly fetched from API using axios and initial data is locally seeded from the backend into database. and then fetched using redux.
+7. I have used various component of React and its libraries to make it. I have also used node.js with express.js as a backend and MongoDB for database and Mongoose to connecting database to our backend.
+8. Redux and its reducer to connecting and fetching backend/database data into frontend.
+9. In this assignment login and signup is fully functional and data will be stored in database which user has given on the time of signup.
+10. Due to lack of time I am not able to complete the filter and sorting functionality and I am really sorry about it.
 
 
 
