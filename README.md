@@ -8,7 +8,6 @@
 7. I have used various component of React and its libraries to make it. I have also used node.js with express.js as a backend and MongoDB for database and Mongoose to connecting database to our backend.
 8. Redux and its reducer to connecting and fetching backend/database data into frontend.
 9. In this assignment login and signup is fully functional and data will be stored in database which user has given on the time of signup.
-10. Due to lack of time I am not able to complete the filter and sorting functionality and I am really sorry about it.
 
 
 
