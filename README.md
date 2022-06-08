@@ -9,7 +9,7 @@
 8. Redux and its reducer to connecting and fetching backend/database data into frontend.
 9. In this assignment login and signup is fully functional and data will be stored in database which user has given on the time of signup.
 
-
+### Deployed on heroku link =>  https://ecommerce-amev.herokuapp.com/ 
 
 
 
